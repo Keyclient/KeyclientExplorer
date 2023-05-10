@@ -37,7 +37,7 @@
   "devDependencies": {
     "bitcore-build": "git://github.com/litecoin-project/litecore-build.git",
     "brfs": "^1.2.0",
-    "browserify": "^8.1.1",
+    "browserify": "^17.0.0",
     "chai": "^2.0.0",
     "gulp": "^3.8.10",
     "sinon": "^1.12.2"
